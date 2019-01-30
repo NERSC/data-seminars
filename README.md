@@ -27,6 +27,8 @@ Feel free to contact the host with questions or requests for time with the speak
 |3/1  |Jupyter at NERSC                                               |Rollin Thomas (NERSC, LBL)           |Rollin Thomas                                         |                       |
 |3/8  |Introduction to Deep Learning                                  |Mustafa Mustafa (NERSC, LBL)         |Mustafa Mustafa                                       |                       |
 
+### [Past Seminars](https://www.nersc.gov/events/nersc-data-seminar/past-seminars/)
 
 [1]: https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG
 [2]: https://drive.google.com/open?id=141SLMMx1mmJp3ZssruJ_AIR7K9OtSAPh
+
