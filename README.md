@@ -23,7 +23,7 @@ Feel free to contact the host with questions or requests for time with the speak
 |2/1  |Mesh-TensorFlow: Deep Learning for Supercomputers              ([abstract](abstracts/2019-02-01.md))|Noam Shazeer (Google Brain)          |Mustafa Mustafa  |                       |
 |2/8  |How Deep Learning Training Scales                              |Sam McCandlish (OpenAI)              |Mustafa Mustafa                                       |                       |
 |2/15 |                                                               |   |   |   |
-|2/22 |ML and Physics @ the Vector Institute                          |Juan Carrasquilla (Vector Institute) |Karthi Kashinath                                      |                       |
+|2/22 |ML and Physics @ the Vector Institute                          |Juan Carrasquilla (Vector Institute) |Karthik Kashinath                                      |                       |
 |3/1  |Jupyter at NERSC                                               |Rollin Thomas (NERSC, LBL)           |Rollin Thomas                                         |                       |
 |3/8  |Introduction to Deep Learning                                  |Mustafa Mustafa (NERSC, LBL)         |Mustafa Mustafa                                       |                       |
 
