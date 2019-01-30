@@ -17,12 +17,16 @@ If you are affiliated with Berkeley Lab you can sign up to receive announcements
 Feel free to contact the host with questions or requests for time with the speaker.
 
 ### 2019 Seminars
-|Date  |Title                  |Speaker                 |Host               |Slides                 |
-|------|-----------------------|------------------------|-------------------|-----------------------|
-|1/25  |Hierarchical Deep Learning for Long-term Sequence Generation   ([abstract](abstracts/2019-01-25.md))|Stephan Zheng (Salesforce Research)  |Steven Farrell   | [keynote](https://drive.google.com/open?id=141SLMMx1mmJp3ZssruJ_AIR7K9OtSAPh), [pdf](https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG)|
-|2/1   |Mesh-TensorFlow: Deep Learning for Supercomputers              ([abstract](abstracts/2019-02-01.md))|Noam Shazeer (Google Brain)          |Mustafa Mustafa  |   |
-|2/8   |How Deep Learning Training Scales                              |Sam McCandlish (OpenAI)              |Mustafa Mustafa  |   |
-|2/15  |                                                               |   |   |   |
-|2/22  |ML and Physics @ the Vector Institute                          |Juan Carrasquilla (Vector Institute) |Karthi Kashinath |   |
-|3/1   |Jupyter at NERSC                                               |Rollin Thomas (NERSC, LBL)           |Rollin Thomas    |   |
-|3/8   |Introduction to Deep Learning                                  |Mustafa Mustafa (NERSC, LBL)         |Mustafa Mustafa  |   |
+|Date |Title                |Speaker                 |Host               |Slides|
+|-----|---------------------|------------------------|-------------------|------|
+|1/25 |Hierarchical Deep Learning for Long-term Sequence Generation   ([abstract](abstracts/2019-01-25.md))|Stephan Zheng (Salesforce Research)  |Steven Farrell   | [keynote][2], [pdf][1]|
+|2/1  |Mesh-TensorFlow: Deep Learning for Supercomputers              ([abstract](abstracts/2019-02-01.md))|Noam Shazeer (Google Brain)          |Mustafa Mustafa  |                       |
+|2/8  |How Deep Learning Training Scales                              |Sam McCandlish (OpenAI)              |Mustafa Mustafa                                       |                       |
+|2/15 |                                                               |   |   |   |
+|2/22 |ML and Physics @ the Vector Institute                          |Juan Carrasquilla (Vector Institute) |Karthi Kashinath                                      |                       |
+|3/1  |Jupyter at NERSC                                               |Rollin Thomas (NERSC, LBL)           |Rollin Thomas                                         |                       |
+|3/8  |Introduction to Deep Learning                                  |Mustafa Mustafa (NERSC, LBL)         |Mustafa Mustafa                                       |                       |
+
+
+[1]: https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG
+[2]: https://drive.google.com/open?id=141SLMMx1mmJp3ZssruJ_AIR7K9OtSAPh
