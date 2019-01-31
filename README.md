@@ -16,6 +16,12 @@ If you are affiliated with Berkeley Lab you can sign up to receive announcements
 ### Contacting the speakers:
 Feel free to contact the host with questions or requests for time with the speaker.
 
+| 02/08 |                 Applications open                 |
+|:-----:|:-------------------------------------------------:|
+| 02/28 |               Applications deadline               |
+| 03/15 | Notify applicants on status of their applications |
+| 03/15 |                 Registration opens                |
+
 ### 2019 Seminars
 |Date |Title                |Speaker                 |Host               |Slides|
 |-----|---------------------|------------------------|-------------------|------|
