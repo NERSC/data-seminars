@@ -1,9 +1,9 @@
-## NERSC Data Seminars Series
+## NERSC Data Seminars Series - Lawrence Berkeley National Laboratory
 
-The NERSC Data Seminar Series hosts speakers from the lab as well as outside the lab to:
-- Facilitate communications between NERSC and other lab CS staff
-- Learn from software vendors on their product offerings
+The NERSC Data Seminar Series are held at [Berkeley Lab](lbl.gov). The series hosts speakers to:
 - Learn about latest science and methods results from researchers
+- Learn from software vendors on their product offerings
+- Facilitate communications between NERSC and other lab CS staff
   
 ### Time:
 Talks are held at **12-1pm** on **Fridays** and are posted on the [CS Seminars Calendar](https://www.nersc.gov/events/cs-seminars/).  
