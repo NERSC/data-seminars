@@ -22,7 +22,7 @@ Feel free to contact the host with questions or requests for time with the speak
 |1/25 |Hierarchical Deep Learning for Long-term Sequence Generation   ([abstract](abstracts/2019-01-25.md))|Stephan Zheng (Salesforce Research)  |Steven Farrell   |[keynote][2], [pdf][1]|
 |2/1  |Mesh-TensorFlow: Deep Learning for Supercomputers              ([abstract](abstracts/2019-02-01.md))|Noam Shazeer (Google Brain)          |Mustafa Mustafa  | |
 |2/8  |An Empirical Model of Large-Batch Training                     ([abstract](abstracts/2019-02-08.md))|Sam McCandlish (OpenAI)              |Mustafa Mustafa  | |
-|2/15 |                                                               |   |   |   |
+|2/15 |Using machine learning to enable extreme-scale simulation for many-query problems|Kevin Carlberg (Sandia Natl Labs)|Karthik Kashinath | |
 |2/22 |ML and Physics @ the Vector Institute                          |Juan Carrasquilla (Vector Institute) |Karthik Kashinath  | |
 |3/1  |Jupyter at NERSC                                               |Rollin Thomas (NERSC, LBL)           |Rollin Thomas    | |
 |3/8  |Introduction to Deep Learning                                  |Mustafa Mustafa (NERSC, LBL)         |Mustafa Mustafa  | |
