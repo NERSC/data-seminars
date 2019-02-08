@@ -26,6 +26,8 @@ Feel free to contact the host with questions or requests for time with the speak
 |2/22 |ML and Physics @ the Vector Institute                          |Juan Carrasquilla (Vector Institute) |Karthik Kashinath  | |
 |3/1  |Jupyter at NERSC                                               |Rollin Thomas (NERSC, LBL)           |Rollin Thomas    | |
 |3/8  |Introduction to Deep Learning                                  |Mustafa Mustafa (NERSC, LBL)         |Mustafa Mustafa  | |
+|3/15 | | | | |
+|3/22 |GANs for Soil Mechanics (Tentative)|Utkarsh Mital (Caltech)|Adrian Albert  | |
 
 ### [Past Seminars](https://www.nersc.gov/events/nersc-data-seminar/past-seminars/)
 
