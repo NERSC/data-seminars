@@ -25,7 +25,7 @@ Feel free to contact the host with questions or requests for time with the speak
 |2/15 |Nonlinear model reduction: Using machine learning to enable extreme-scale simulation for many-query problems ([abstract](abstracts/2019-02-15.md))|Kevin Carlberg (Sandia Natl. Labs)|Karthik Kashinath | |
 |2/22 |Learning quantum states with generative models                 ([abstract](abstracts/2019-02-22.md))|Juan Carrasquilla (Vector Institute) |Karthik Kashinath  | |
 |3/1  |Jupyter at NERSC                                               ([abstract](abstracts/2019-03-01.md))|Rollin Thomas (NERSC, LBL)           |Prabhat    | |
-|3/8  |Introduction to Deep Learning                                  ([abstract](abstracts/2019-03-08.md))|Mustafa Mustafa (NERSC, LBL)         |Prabhat  | |
+|3/8  |Introduction to Deep Learning                                  ([abstract](abstracts/2019-03-08.md))|Mustafa Mustafa (NERSC, LBL)         |Prabhat  |[pdf][3] |
 |3/15 | | | | |
 |3/22 |GANs for Soil Mechanics (Tentative)|Utkarsh Mital (Caltech)|Adrian Albert  | |
 
@@ -33,4 +33,4 @@ Feel free to contact the host with questions or requests for time with the speak
 
 [1]: https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG
 [2]: https://drive.google.com/open?id=141SLMMx1mmJp3ZssruJ_AIR7K9OtSAPh
-
+[3]: https://docs.google.com/presentation/d/1haI_h9jbvcSyM_ngCSC9-ZknLBJ6JDqVlb7NXk4NA3Y/edit#slide=id.g4c14c04cdd_0_111
