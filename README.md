@@ -38,7 +38,6 @@ Feel free to contact the host with questions or requests for time with the speak
 |5/17 |TBD                                                                                                 |                      |  | |
 |5/17 |Maglev                                                                                              |John van Rosendale    |Prabhat  | |
 
-### [Past Seminars](https://www.nersc.gov/events/nersc-data-seminar/past-seminars/)
 
 [1]: https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG
 [2]: https://drive.google.com/open?id=141SLMMx1mmJp3ZssruJ_AIR7K9OtSAPh
