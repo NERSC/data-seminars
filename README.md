@@ -26,8 +26,9 @@ Feel free to contact the host with questions or requests for time with the speak
 |2/22 |Learning quantum states with generative models                 ([abstract](abstracts/2019-02-22.md))|Juan Carrasquilla (Vector Institute) |Karthik Kashinath  | |
 |3/1  |Jupyter at NERSC                                               ([abstract](abstracts/2019-03-01.md))|Rollin Thomas (NERSC, LBL)           |Prabhat    | |
 |3/8  |Introduction to Deep Learning                                  ([abstract](abstracts/2019-03-08.md))|Mustafa Mustafa (NERSC, LBL)         |Prabhat  |[pdf][3] |
-|3/15 | | | | |
-|3/22 |GANs for Soil Mechanics (Tentative)|Utkarsh Mital (Caltech)|Adrian Albert  | |
+|3/15 |SENSE: SDN for End-to-end Networked Science at the Exascale    ([abstract](abstracts/2019-03-15.md))|Chin Guok(ESNet, LBL)                |David Skinner | |
+|3/22 |Spatio-temporal modeling using ML                              ([abstract](abstracts/2019-03-22.md))|Rose Yu (NorthEastern Univ.)         |Karthik Kashinath, Adrian Albert  | |
+|3/29 |GANs for Soil Mechanics                                        ([abstract](abstracts/2019-03-29.md))|Utkarsh Mital (Caltech)              |Adrian Albert  | |
 
 ### [Past Seminars](https://www.nersc.gov/events/nersc-data-seminar/past-seminars/)
 
