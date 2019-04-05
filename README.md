@@ -29,14 +29,14 @@ Feel free to contact the host with questions or requests for time with the speak
 |3/15 |SENSE: SDN for End-to-end Networked Science at the Exascale    ([abstract](abstracts/2019-03-15.md))|Chin Guok(ESNet, LBL)                |David Skinner | |
 |3/22 |Spatio-temporal modeling using ML                              ([abstract](abstracts/2019-03-22.md))|Rose Yu (NorthEastern Univ.)         |Karthik Kashinath, Adrian Albert  | |
 |3/29 |GANs for Soil Mechanics                                        ([abstract](abstracts/2019-03-29.md))|Utkarsh Mital (Caltech)              |Adrian Albert  | |
-|4/5  |TBD                                                                                                 |Manoj Bhardwaj (Sandia)              |Sudip Dosanjh  | |
-|4/12 |TBD                                                                                                 |Gerald Friedland (UCB & LLNL)        |Aydin Buluc  | |
+|4/12 |Sizing Neural Network Experiments                              ([abstract](abstracts/2019-04-12.md))|Gerald Friedland (UCB & LLNL)        |Aydin Buluc  | |
 |4/19 |Picture Perfect                                                                                     |Peter Denes (LBL)                    |David Skinner  | |
 |4/26 |                                                                                                    |                    |  | |
 |5/3  |TBD                                                                                                 |Animashree Anandkumar (Caltech, NVIDIA)|Karthik Kashinath  | |
 |5/10 |IceCube ML Tracking Talk                                                                            |Mirco Hunnefeld                      |Lisa Gerhardt  | |
 |5/17 |TBD                                                                                                 |                      |  | |
-|5/17 |Maglev                                                                                              |John van Rosendale    |Prabhat  | |
+|5/24 |Maglev                                                                                              |John van Rosendale    |Prabhat  | |
+|5/31 |Space: the final frontier                                                                           |Jim Newman    |Prabhat  | |
 
 
 [1]: https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG
