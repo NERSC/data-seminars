@@ -32,7 +32,7 @@ Feel free to contact the host with questions or requests for time with the speak
 |4/12 |Sizing Neural Network Experiments                              ([abstract](abstracts/2019-04-12.md))|Gerald Friedland (UCB & LLNL)        |Aydin Buluc  | |
 |4/19 |Picture Perfect                                                                                     |Peter Denes (LBL)                    |David Skinner  | |
 |4/26 |                                                                                                    |                    |  | |
-|5/3  |TBD                                                                                                 |Animashree Anandkumar (Caltech, NVIDIA)|Karthik Kashinath  | |
+|5/3  |Infusing Structure into Machine Learning Algorithms                                                 |Animashree Anandkumar (Caltech, NVIDIA)|Karthik Kashinath  | |
 |5/10 |IceCube ML Tracking Talk                                                                            |Mirco Hunnefeld                      |Lisa Gerhardt  | |
 |5/17 |TBD                                                                                                 |                      |  | |
 |5/24 |Maglev                                                                                              |John van Rosendale    |Prabhat  | |
