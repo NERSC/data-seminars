@@ -30,9 +30,9 @@ Feel free to contact the host with questions or requests for time with the speak
 |3/22 |Spatio-temporal modeling using ML                              ([abstract](abstracts/2019-03-22.md))|Rose Yu (NorthEastern Univ.)         |Karthik Kashinath, Adrian Albert  | |
 |3/29 |GANs for Soil Mechanics                                        ([abstract](abstracts/2019-03-29.md))|Utkarsh Mital (Caltech)              |Adrian Albert  | |
 |4/12 |Sizing Neural Network Experiments                              ([abstract](abstracts/2019-04-12.md))|Gerald Friedland (UCB & LLNL)        |Aydin Buluc  | |
-|4/19 |Picture Perfect                                                                                     |Peter Denes (LBL)                    |David Skinner  | |
+|4/19 |Picture Perfect                                                ([abstract](abstracts/2019-04-19.md))|Peter Denes (LBL)                    |David Skinner  | |
 |4/26 |                                                                                                    |                    |  | |
-|5/3  |Infusing Structure into Machine Learning Algorithms                                                 |Animashree Anandkumar (Caltech, NVIDIA)|Karthik Kashinath  | |
+|5/3  |Infusing Structure into Machine Learning Algorithms            ([abstract](abstracts/2019-05-03.md))|Animashree Anandkumar (Caltech, NVIDIA)|Karthik Kashinath  | |
 |5/10 |IceCube ML Tracking Talk                                                                            |Mirco Hunnefeld                      |Lisa Gerhardt  | |
 |5/17 |TBD                                                                                                 |                      |  | |
 |5/24 |Maglev                                                                                              |John van Rosendale    |Prabhat  | |
