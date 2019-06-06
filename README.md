@@ -33,10 +33,12 @@ Feel free to contact the host with questions or requests for time with the speak
 |4/19 |Picture Perfect                                                ([abstract](abstracts/2019-04-19.md))|Peter Denes (LBL)                    |David Skinner  | |
 |4/26 |                                                                                                    |                    |  | |
 |5/3  |Infusing Structure into Machine Learning Algorithms            ([abstract](abstracts/2019-05-03.md))|Animashree Anandkumar (Caltech, NVIDIA)|Karthik Kashinath  | |
-|5/10 |IceCube ML Tracking Talk                                                                            |Mirco Hunnefeld                      |Lisa Gerhardt  | |
 |5/17 |TBD                                                                                                 |                      |  | |
-|5/24 |Maglev                                                                                              |John van Rosendale    |Prabhat  | |
-|5/31 |Space: the final frontier                                                                           |Jim Newman    |Prabhat  | |
+|5/21 |Cascade Reconstruction in IceCube using Convolutional and Generative Neural Networks   ([abstract](abstracts/2019-05-21.md))|Mirco Hunnefeld (TU Dortmund)|Lisa Gerhardt  | |
+|5/24 |Maglev and the Future of Long Distance Transportation          ([abstract](abstracts/2019-05-24.md))|John van Rosendale (College of William and Mary)|Prabhat  | |
+|5/31 |Reflections on Human Space Flight” subtitled “Why Single Planet Species Don’t Survive) ([abstract](abstracts/2019-05-31.md))|Jim Newman (Naval Postgraduate School)|Prabhat  | |
+|6/14 |Optimizing Graph Algorithms                                     |Shaikh Arifuzzman |Prabhat  | |
+|6/28 |Accelerating Deep Learning with FPGAs                           |Rahul Namiyar |Prabhat  | |
 
 
 [1]: https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG
