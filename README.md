@@ -31,9 +31,7 @@ Feel free to contact the host with questions or requests for time with the speak
 |3/29 |GANs for Soil Mechanics                                        ([abstract](abstracts/2019-03-29.md))|Utkarsh Mital (Caltech)              |Adrian Albert  | |
 |4/12 |Sizing Neural Network Experiments                              ([abstract](abstracts/2019-04-12.md))|Gerald Friedland (UCB & LLNL)        |Aydin Buluc  | |
 |4/19 |Picture Perfect                                                ([abstract](abstracts/2019-04-19.md))|Peter Denes (LBL)                    |David Skinner  | |
-|4/26 |                                                                                                    |                    |  | |
 |5/3  |Infusing Structure into Machine Learning Algorithms            ([abstract](abstracts/2019-05-03.md))|Animashree Anandkumar (Caltech, NVIDIA)|Karthik Kashinath  | |
-|5/17 |TBD                                                                                                 |                      |  | |
 |5/21 |Cascade Reconstruction in IceCube using Convolutional and Generative Neural Networks   ([abstract](abstracts/2019-05-21.md))|Mirco Hunnefeld (TU Dortmund)|Lisa Gerhardt  | |
 |5/24 |Maglev and the Future of Long Distance Transportation          ([abstract](abstracts/2019-05-24.md))|John van Rosendale (College of William and Mary)|Prabhat  | |
 |5/31 |Reflections on Human Space Flight” subtitled “Why Single Planet Species Don’t Survive) ([abstract](abstracts/2019-05-31.md))|Jim Newman (Naval Postgraduate School)|Prabhat  | |
