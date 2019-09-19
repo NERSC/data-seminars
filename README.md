@@ -41,9 +41,7 @@ Feel free to contact the host with questions or requests for time with the speak
 |8/23 |Physics-informed Autoencoders for Lyapunov-stable Fluid Flow Prediction |N. Benjamin Erichson |John Wu / Jialin Liu||
 |8/30 |Accelerating Deep Learning with FPGAs                           |Rahul Namiyar |Prabhat  | |
 |10/4 |Opportunities and Challenges in Linking DAQ & HPC Systems |David Skinner ||||
-|10/11|Machine Learning, Synthetic Biology and Automation: Engineering Life for the Benefit of Society |Hector Garcia Martin |Steven Farrell ||
-
-
+|10/11|Machine Learning, Synthetic Biology and Automation: Engineering Life for the Benefit of Society ([abstract](abstracts/2019-10-11.md))|Hector Garcia Martin |Steven Farrell ||
 
 [1]: https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG
 [2]: https://drive.google.com/open?id=141SLMMx1mmJp3ZssruJ_AIR7K9OtSAPh
