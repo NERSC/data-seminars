@@ -36,7 +36,13 @@ Feel free to contact the host with questions or requests for time with the speak
 |5/24 |Maglev and the Future of Long Distance Transportation          ([abstract](abstracts/2019-05-24.md))|John van Rosendale (College of William and Mary)|Prabhat  | |
 |5/31 |Reflections on Human Space Flight” subtitled “Why Single Planet Species Don’t Survive) ([abstract](abstracts/2019-05-31.md))|Jim Newman (Naval Postgraduate School)|Prabhat  | |
 |6/14 |Optimizing Graph Algorithms                                     |Shaikh Arifuzzman |Prabhat  | |
-|6/28 |Accelerating Deep Learning with FPGAs                           |Rahul Namiyar |Prabhat  | |
+|7/26 |W3C and the Future of Data Sharing on the Web |Annette Greiner | | |
+|8/9  |Learning for HPC Systems: Progress and Challenges |Taylor Groves | | |
+|8/23 |Physics-informed Autoencoders for Lyapunov-stable Fluid Flow Prediction |N. Benjamin Erichson |John Wu / Jialin Liu||
+|8/30 |Accelerating Deep Learning with FPGAs                           |Rahul Namiyar |Prabhat  | |
+|10/4 |Opportunities and Challenges in Linking DAQ & HPC Systems |David Skinner ||||
+|10/11|Machine Learning, Synthetic Biology and Automation: Engineering Life for the Benefit of Society |Hector Garcia Martin |Steven Farrell ||
+
 
 
 [1]: https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG
