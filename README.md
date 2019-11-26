@@ -44,7 +44,7 @@ Feel free to contact the host with questions or requests for time with the speak
 |10/25 |Opportunities and Challenges in Linking DAQ & HPC Systems ([abstract](abstracts/2019-10-25.md)) |David Skinner |Prabhat |||
 |11/1|Machine Learning, Synthetic Biology and Automation: Engineering Life for the Benefit of Society ([abstract](abstracts/2019-11-01.md))|Hector Garcia Martin |Steven Farrell |[ppt][4]|
 |11/15|FlowPM: Particle-Mesh N-body Simulation in TensorFlow ([abstract](abstracts/2019-11-15.md))|Chirag Modi |Mustafa Mustafa ||
-|12/6| |John Dagdelen |Steven Farrell ||
+|12/6 |Natural Language Processing for Materials Discovery and Design ([abstract](abstracts/2019-12-06.md))|John Dagdelen |Steven Farrell ||
 
 [1]: https://drive.google.com/open?id=1uTJjAPPnvY4ds0_02_jeYP9Uh3NyX8KG
 [2]: https://drive.google.com/open?id=141SLMMx1mmJp3ZssruJ_AIR7K9OtSAPh
