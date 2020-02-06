@@ -25,6 +25,8 @@ We now post videos to [YouTube](https://www.youtube.com/playlist?list=PL20S5EeAp
 ### 2019 Seminars
 |Date |Title                |Speaker                 |Host               |Slides       |
 |-----|---------------------|------------------------|-------------------|-------------|
-|1/10 |Independent metadata updating for large scale parallel I/O systems ([abstract](abstracts/2020-01-10.md))|Tonglin Li (NERSC)  |Prabhat   ||
+|1/10 |Independent metadata updating for large scale parallel I/O systems ([abstract](abstracts/2020-01-10.md))|Tonglin Li (NERSC)  |Prabhat   |[pdf][1]|
 |1/31 |Data skeletons: IO workload characterization for the modern age    ([abstract](abstracts/2020-01-31.md))|Avani Wildani (Emory University)|Taylor Groves  | |
 |2/07 |Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models ([abstract](abstracts/2020-02-07.md))|Mariam Kiran (ESNet)|Steven Farrel  | |
+
+[1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
