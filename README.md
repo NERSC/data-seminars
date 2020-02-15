@@ -23,10 +23,15 @@ We now post videos to [YouTube](https://www.youtube.com/playlist?list=PL20S5EeAp
 [2019](2019.md)
 
 ### 2019 Seminars
-|Date |Title                |Speaker                 |Host               |Slides       |
+|Date |Title                |Speaker                 |Host               |Material       |
 |-----|---------------------|------------------------|-------------------|-------------|
-|1/10 |Independent metadata updating for large scale parallel I/O systems ([abstract](abstracts/2020-01-10.md))|Tonglin Li (NERSC)  |Prabhat   |[pdf][1]|
-|1/31 |Data skeletons: IO workload characterization for the modern age    ([abstract](abstracts/2020-01-31.md))|Avani Wildani (Emory University)|Taylor Groves  | |
-|2/07 |Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models ([abstract](abstracts/2020-02-07.md))|Mariam Kiran (ESNet)|Steven Farrel  | |
+|1/10 |Independent metadata updating for large scale parallel I/O systems ([abstract](abstracts/2020-01-10.md))|Tonglin Li (NERSC)  |Prabhat   |[pdf][1], [vid][2]|
+|1/31 |Data skeletons: IO workload characterization for the modern age    ([abstract](abstracts/2020-01-31.md))|Avani Wildani (Emory University)|Taylor Groves  | [vid][3]|
+|2/07 |Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models ([abstract](abstracts/2020-02-07.md))|Mariam Kiran (ESNet)|Steven Farrel  | [vid][4]|
+|2/14 |Intrinsiccomputation and physics-based machine learning for emergentself-organization in far-from-equilibrium systems ([abstract](abstracts/2020-02-14.md))|Adam Rupe (UC Davis)|Karthik Kashinath| [vid][5]|
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
+[2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
+[3]: https://www.youtube.com/watch?v=1lvpEwIlk_8&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=1
+[4]: https://www.youtube.com/watch?v=CJp_oXcgerU&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=7
+[5]: https://www.youtube.com/watch?v=gjx2jm25gHs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2&t=0s
