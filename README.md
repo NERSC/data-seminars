@@ -27,7 +27,7 @@ We now post videos to [YouTube](https://www.youtube.com/playlist?list=PL20S5EeAp
 |-----|---------------------|------------------------|-------------------|-------------|
 |1/10 |Independent metadata updating for large scale parallel I/O systems ([abstract](abstracts/2020-01-10.md))|Tonglin Li (NERSC)  |Prabhat   |[pdf][1], [vid][2]|
 |1/31 |Data skeletons: IO workload characterization for the modern age    ([abstract](abstracts/2020-01-31.md))|Avani Wildani (Emory University)|Taylor Groves  | [vid][3]|
-|2/07 |Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models ([abstract](abstracts/2020-02-07.md))|Mariam Kiran (ESNet)|Steven Farrel  | [vid][4]|
+|2/07 |Time-series Analysis of ESnet Network Traffic: Statistical and Deep Learning models ([abstract](abstracts/2020-02-07.md))|Mariam Kiran (ESNet)|Steven Farrell  | [vid][4]|
 |2/14 |Intrinsic computation and physics-based machine learning for emergentself-organization in far-from-equilibrium systems ([abstract](abstracts/2020-02-14.md))|Adam Rupe (UC Davis)|Karthik Kashinath| [vid][5]|
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
