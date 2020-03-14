@@ -31,7 +31,7 @@ We now post videos to [YouTube](https://www.youtube.com/playlist?list=PL20S5EeAp
 |2/14 |Intrinsic computation and physics-based machine learning for emergentself-organization in far-from-equilibrium systems ([abstract](abstracts/2020-02-14.md))|Adam Rupe (UC Davis)|Karthik Kashinath| [vid][5]|
 |2/28 |The Superfacility project: 2019 year in review ([abstract](abstracts/2020-02-28.md)) | The Superfacility Project Team| Debbie Bard| [vid][9]|
 |3/06 |Intersections of AI/ML and Chemistry in Catalyst Design and Discovery ([abstract](abstracts/2020-03-06.md))|Zachary Ulisii (CMU)|Mustafa Mustafa| [pdf][6], [vid][7]|
-|3/13 |ECP HDF5 - New features and applications ([abstract](abstracts/2020-03-13.md))|Quincey Koziol|Prabhat| [pptx][8]|
+|3/13 |ECP HDF5 - New features and applications ([abstract](abstracts/2020-03-13.md))|Suren Byna,  Quincey Koziol|Quincey Koziol| [pptx][8], [vid][10]|
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
 [2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
@@ -42,3 +42,4 @@ We now post videos to [YouTube](https://www.youtube.com/playlist?list=PL20S5EeAp
 [7]: https://www.youtube.com/watch?v=cThCoWQn4-o&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2&t=0s
 [8]: https://drive.google.com/file/d/1-R83QfIeZmByV-U1rqxHxFgh15WuMuJC/view
 [9]: https://www.youtube.com/watch?v=tcQGohF9DCg&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=3
+[10]: https://www.youtube.com/watch?v=VxpkNFSwpgs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
