@@ -31,7 +31,10 @@ We now post videos to [YouTube](https://www.youtube.com/playlist?list=PL20S5EeAp
 |2/14 |Intrinsic computation and physics-based machine learning for emergentself-organization in far-from-equilibrium systems ([abstract](abstracts/2020-02-14.md))|Adam Rupe (UC Davis)|Karthik Kashinath| [vid][5]|
 |2/28 |The Superfacility project: 2019 year in review ([abstract](abstracts/2020-02-28.md)) | The Superfacility Project Team| Debbie Bard| [vid][9]|
 |3/06 |Intersections of AI/ML and Chemistry in Catalyst Design and Discovery ([abstract](abstracts/2020-03-06.md))|Zachary Ulisii (CMU)|Mustafa Mustafa| [pdf][6], [vid][7]|
-|3/13 |ECP HDF5 - New features and applications ([abstract](abstracts/2020-03-13.md))|Suren Byna,  Quincey Koziol|Quincey Koziol| [pptx][8], [vid][10]|
+|3/13 |ECP HDF5 - New features and applications ([abstract](abstracts/2020-03-13.md))|Suren Byna (CRD),  Quincey Koziol (NERSC)|Quincey Koziol| [pptx][8], [vid][10]|
+|4/17 |A Data-Driven Global Weather Model Using Reservoir Computing ([abstract](abstracts/2020-04-17.md))|Troy Arcomano (Texas A&amp;M)|Jaideep Pathak| vid coming soon|
+|5/1 |Deep learning for PDEs, and scientific computing with JAX ([abstract](abstracts/2020-05-1.md))|Stephan Hoyer (Google)|Karthik Kashinath| vid coming soon|
+|5/15 |Deep learning production capabilities at NERSC ([abstract](abstracts/2020-05-15.md))|Steven Farrell &amp; Mustafa Mustafa|Prabhat| vid coming soon|
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
 [2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
