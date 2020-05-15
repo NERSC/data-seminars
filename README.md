@@ -35,6 +35,7 @@ We now post videos to [YouTube](https://www.youtube.com/playlist?list=PL20S5EeAp
 |4/17 |A Data-Driven Global Weather Model Using Reservoir Computing ([abstract](abstracts/2020-04-17.md))|Troy Arcomano (Texas A&amp;M)|Jaideep Pathak| vid coming soon|
 |5/1 |Deep learning for PDEs, and scientific computing with JAX ([abstract](abstracts/2020-05-1.md))|Stephan Hoyer (Google)|Karthik Kashinath| vid coming soon|
 |5/15 |Deep learning production capabilities at NERSC ([abstract](abstracts/2020-05-15.md))|Steven Farrell &amp; Mustafa Mustafa|Prabhat| vid coming soon|
+|5/22 |Learned discretizations for passive scalar advection in a 2-D turbulent flow ([abstract](abstracts/2020-05-22.md))|Jiawei Zhuang (Harvard Univ.)|Mustafa Mustafa| vid coming soon|
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
 [2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
