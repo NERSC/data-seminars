@@ -17,7 +17,7 @@ If you are affiliated with Berkeley Lab you can sign up to receive announcements
 Feel free to contact the host with questions or requests for time with the speaker.
 
 ### Videos: 
-We now post videos to [YouTube](https://www.youtube.com/playlist?list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy).
+Video recordings are available on [YouTube](https://www.youtube.com/playlist?list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy).
 
 ### Past years: 
 [2019](2019.md)
