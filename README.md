@@ -33,10 +33,11 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 |3/06 |Intersections of AI/ML and Chemistry in Catalyst Design and Discovery ([abstract](abstracts/2020-03-06.md))|Zachary Ulisii (CMU)|Mustafa Mustafa| [pdf][6], [vid][7]|
 |3/13 |ECP HDF5 - New features and applications ([abstract](abstracts/2020-03-13.md))|Suren Byna (CRD),  Quincey Koziol (NERSC)|Quincey Koziol| [pptx][8], [vid][10]|
 |4/17 |A Data-Driven Global Weather Model Using Reservoir Computing ([abstract](abstracts/2020-04-17.md))|Troy Arcomano (Texas A&amp;M)|Jaideep Pathak|[vid][12]|
-|5/1 |Deep learning for PDEs, and scientific computing with JAX ([abstract](abstracts/2020-05-01.md))|Stephan Hoyer (Google)|Karthik Kashinath| vid coming soon|
+|5/01 |Deep learning for PDEs, and scientific computing with JAX ([abstract](abstracts/2020-05-01.md))|Stephan Hoyer (Google)|Karthik Kashinath| vid coming soon|
 |5/15 |Deep learning production capabilities at NERSC ([abstract](abstracts/2020-05-15.md))|Steven Farrell &amp; Mustafa Mustafa|Prabhat| [slides][11], [vid][13]|
 |5/22 |Learned discretizations for passive scalar advection in a 2-D turbulent flow ([abstract](abstracts/2020-05-22.md))|Jiawei Zhuang (Harvard Univ.)|Mustafa Mustafa| [slides][14]|
 |5/29 |Simulation-based and label-free deep learning for science ([abstract](abstracts/2020-05-29.md))|Ben Nachmann (LBL)|Wahid Bhimji| [slides][15]|
+|6/05 |Tuning Floating Point Precision (Using Dynamic and Temporal Locality Program Information) ([abstract](abstracts/2020-06-05.md))|Costin Iancu (CRD, LBL)|Brandon Cook| coming soon|
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
 [2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
