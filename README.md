@@ -38,6 +38,8 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 |5/22 |Learned discretizations for passive scalar advection in a 2-D turbulent flow ([abstract](abstracts/2020-05-22.md))|Jiawei Zhuang (Harvard Univ.)|Mustafa Mustafa| [slides][14]|
 |5/29 |Simulation-based and label-free deep learning for science ([abstract](abstracts/2020-05-29.md))|Ben Nachmann (LBL)|Wahid Bhimji| [slides][15], [vid][16]|
 |6/05 |Tuning Floating Point Precision (Using Dynamic and Temporal Locality Program Information) ([abstract](abstracts/2020-06-05.md))|Costin Iancu (CRD, LBL)|Brandon Cook| coming soon|
+|6/19 |Status of Containers in HPC ([abstract](abstracts/2020-06-19.md)) |Shane Canon |Prabhat ||
+|6/26 |Congestion and Distributed Training of Deep Neural Networks ([abstract](abstracts/2020-06-26.md)) |Jacob Balma (HPE) |Steven Farrell ||
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
 [2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
