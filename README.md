@@ -39,7 +39,7 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 |5/29 |Simulation-based and label-free deep learning for science ([abstract](abstracts/2020-05-29.md))|Ben Nachmann (LBL)|Wahid Bhimji| [slides][15], [vid][16]|
 |6/05 |Tuning Floating Point Precision (Using Dynamic and Temporal Locality Program Information) ([abstract](abstracts/2020-06-05.md))|Costin Iancu (CRD, LBL)|Brandon Cook| coming soon|
 |6/19 |Status of Containers in HPC ([abstract](abstracts/2020-06-19.md)) |Shane Canon |Prabhat ||
-|6/26 |Congestion and Distributed Training of Deep Neural Networks ([abstract](abstracts/2020-06-26.md)) |Jacob Balma (HPE) |Steven Farrell ||
+|6/26 |Congestion and Distributed Training of Deep Neural Networks ([abstract](abstracts/2020-06-26.md)) |Jacob Balma (HPE) |Steven Farrell | [slides][17]|
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
 [2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
@@ -57,3 +57,4 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 [14]: https://docs.google.com/presentation/d/1tFTjoJ_Ca6ABvCGBDsgba84h5YD6xve7HzzzYXn1uME/edit#slide=id.p
 [15]: https://www.dropbox.com/s/ei197sfm8jcs7la/NERSCMay2020.pdf?dl=0
 [16]: https://www.youtube.com/watch?v=1zlYYGP874I&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
+[15]: https://drive.google.com/file/d/1ITkmSVrNBrgjnbER_qh4pr4K9tkVtTnT/view?usp=sharing
