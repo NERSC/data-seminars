@@ -38,8 +38,13 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 |5/22 |Learned discretizations for passive scalar advection in a 2-D turbulent flow ([abstract](abstracts/2020-05-22.md))|Jiawei Zhuang (Harvard Univ.)|Mustafa Mustafa| [slides][14]|
 |5/29 |Simulation-based and label-free deep learning for science ([abstract](abstracts/2020-05-29.md))|Ben Nachmann (LBL)|Wahid Bhimji| [slides][15], [vid][16]|
 |6/05 |Tuning Floating Point Precision (Using Dynamic and Temporal Locality Program Information) ([abstract](abstracts/2020-06-05.md))|Costin Iancu (CRD, LBL)|Brandon Cook| coming soon|
-|6/19 |Status of Containers in HPC ([abstract](abstracts/2020-06-19.md)) |Shane Canon |Prabhat ||
+|6/19 |Status of Containers in HPC ([abstract](abstracts/2020-06-19.md)) |Shane Canon |Prabhat |[vid][18]|
 |6/26 |Congestion and Distributed Training of Deep Neural Networks ([abstract](abstracts/2020-06-26.md)) |Jacob Balma (HPE) |Steven Farrell | [slides][17]|
+|7/02 |Workflows at NERSC: Overview and GNU Parallel Parsl, Papermill demos ([abstract](abstracts/2020-07-02.md)) |Bill Arndt, Laurie Stephey, Bjoern Enders|Prabhat| |
+|7/17 |Superconducting Radio-Frequency Cavity Fault Classification Using Machine Learning ([abstract](abstracts/2020-07-17.md)) |Christopher Tennant (Jefferson Lab)|Mustafa Mustafa| |
+|7/24 |Making the invisible visible ([abstract](abstracts/2020-07-24.md)) |Srigokul Upadhyayula|Suren Byna| |
+|8/14 |ExaHDF5 ([abstract](abstracts/2020-08-14.md)) |Quincey Koziol and Suren Byna|Prabhat| |
+|8/21 |Weights & Biases ([abstract](abstracts/2020-08-21.md)) |Blake Street|Mustafa Mustafa| |
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
 [2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
@@ -58,3 +63,4 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 [15]: https://www.dropbox.com/s/ei197sfm8jcs7la/NERSCMay2020.pdf?dl=0
 [16]: https://www.youtube.com/watch?v=1zlYYGP874I&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
 [17]: https://drive.google.com/file/d/1ITkmSVrNBrgjnbER_qh4pr4K9tkVtTnT/view?usp=sharing
+[18]: https://www.youtube.com/watch?v=ObXSq4fkCKs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=3&t=5s
