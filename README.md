@@ -43,8 +43,10 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 |7/02 |Workflows at NERSC: Overview and GNU Parallel Parsl, Papermill demos ([abstract](abstracts/2020-07-02.md)) |Bill Arndt, Laurie Stephey, Bjoern Enders|Prabhat| |
 |7/17 |Superconducting Radio-Frequency Cavity Fault Classification Using Machine Learning ([abstract](abstracts/2020-07-17.md)) |Christopher Tennant (Jefferson Lab)|Mustafa Mustafa| |
 |7/24 |Making the invisible visible ([abstract](abstracts/2020-07-24.md)) |Srigokul Upadhyayula|Suren Byna| |
-|8/14 |ExaHDF5 ([abstract](abstracts/2020-08-14.md)) |Quincey Koziol and Suren Byna|Prabhat| |
-|8/21 |Weights & Biases ([abstract](abstracts/2020-08-21.md)) |Blake Street|Mustafa Mustafa| |
+|8/21 |Weights & Biases: system of record to track, optimize, and reproduce ML research ([abstract](abstracts/2020-08-21.md))|Chris Van Pelt, Charles Frye|Mustafa Mustafa| |
+|8/28 |ExaHDF5|Quincey Koziol and Suren Byna|Prabhat| |
+|9/4 |ML and intrument @ SLAC| Auralee Edelen |Debbie Bard||
+|9/11|Flux Scheduler| Dong Ahn| Katie Antypas||
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
 [2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
