@@ -41,7 +41,7 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 |6/19 |Status of Containers in HPC ([abstract](abstracts/2020-06-19.md)) |Shane Canon |Prabhat |[vid][18]|
 |6/26 |Congestion and Distributed Training of Deep Neural Networks ([abstract](abstracts/2020-06-26.md)) |Jacob Balma (HPE) |Steven Farrell | [slides][17]|
 |7/02 |Workflows at NERSC: Overview and GNU Parallel Parsl, Papermill demos ([abstract](abstracts/2020-07-02.md)) |Bill Arndt, Laurie Stephey, Bjoern Enders|Prabhat| |
-|7/17 |Superconducting Radio-Frequency Cavity Fault Classification Using Machine Learning ([abstract](abstracts/2020-07-17.md)) |Christopher Tennant (Jefferson Lab)|Mustafa Mustafa| |
+|7/17 |Superconducting Radio-Frequency Cavity Fault Classification Using Machine Learning ([abstract](abstracts/2020-07-17.md)) |Christopher Tennant (Jefferson Lab)|Mustafa Mustafa|[vid][26]|
 |7/24 |Making the invisible visible ([abstract](abstracts/2020-07-24.md)) |Srigokul Upadhyayula|Suren Byna|[vid][21]|
 |8/21 |Weights & Biases: system of record to track, optimize, and reproduce ML research ([abstract](abstracts/2020-08-21.md))|Chris Van Pelt, Charles Frye (Weights & Biases)|Mustafa Mustafa| |
 |9/04 |Steps toward holistic control of particle accelerators with neural networks ([abstract](abstracts/2020-09-04.md))|Auralee Edelen (SLAC National Accelerator Laboratory)|Debbie Bard|[vid][25]|
@@ -77,3 +77,4 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 [23]: https://drive.google.com/file/d/1ZBJUB10IjaUpoQXyx1mP4At_ylXc-WTa/view
 [24]: https://www.youtube.com/watch?v=QmvAcwkTRls
 [25]: https://www.youtube.com/watch?v=teAJ9MOdOmE&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=4
+[26]: https://www.youtube.com/watch?v=7j6R0dAiydM&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=7
