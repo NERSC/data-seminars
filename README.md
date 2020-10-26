@@ -43,10 +43,14 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 |7/02 |Workflows at NERSC: Overview and GNU Parallel Parsl, Papermill demos ([abstract](abstracts/2020-07-02.md)) |Bill Arndt, Laurie Stephey, Bjoern Enders|Prabhat| |
 |7/17 |Superconducting Radio-Frequency Cavity Fault Classification Using Machine Learning ([abstract](abstracts/2020-07-17.md)) |Christopher Tennant (Jefferson Lab)|Mustafa Mustafa| |
 |7/24 |Making the invisible visible ([abstract](abstracts/2020-07-24.md)) |Srigokul Upadhyayula|Suren Byna| |
-|8/21 |Weights & Biases: system of record to track, optimize, and reproduce ML research ([abstract](abstracts/2020-08-21.md))|Chris Van Pelt, Charles Frye|Mustafa Mustafa| |
-|8/28 |ExaHDF5|Quincey Koziol and Suren Byna|Prabhat| |
-|9/4 |ML and intrument @ SLAC| Auralee Edelen |Debbie Bard||
-|9/11|Flux Scheduler| Dong Ahn| Katie Antypas||
+|8/21 |Weights & Biases: system of record to track, optimize, and reproduce ML research ([abstract](abstracts/2020-08-21.md))|Chris Van Pelt, Charles Frye (Weights & Biases)|Mustafa Mustafa| |
+|9/04 |Steps toward holistic control of particle accelerators with neural networks ([abstract](abstracts/2020-09-04.md))|Auralee Edelen (SLAC National Accelerator Laboratory)|Debbie Bard||
+|9/11 |Flux: Overcoming Scheduling Challenges for Exascale Workflows ([abstract](abstracts/2020-09-11.md))|Dong Ahn, Stephen Herbein (LLNL)| Katie Antypas||
+|9/25 |ExaHDF5: An Update on the ECP HDF5 Project ([abstract](abstracts/2020-09-25.md))|Quincey Koziol (NERSC), Suren Byna (CRD)|Wahid Bhimji||
+|10/02 |Enabling Interactive, On-Demand High Performance Computing for Rapid Prototyping and Machine Learning ([abstract](abstracts/2020-10-02.md))|Albert Reuther (MITLincoln Laboratory Supercomputing Center)|Rollin Thomas|[vid][19]|
+|10/09 |Generative neural networks: Data-driven simulations for particle physics ([abstract](abstracts/2020-10-09.md))|Ramon Winterhalder (Heidelberg University)|Wahid Bhimji||
+|10/16 |Using Machine Learning to Augment Coarse-Grid Computational Fluid Dynamics Simulations ([abstract](abstracts/2020-10-16.md))|Jaideep Pathak (NERSC)|Mustafa Mustafa|[vid][20]|
+|11/02 |Robust prediction of high-dimensional dynamical systems using Koopman deep networks ([abstract](abstracts/2020-11-02.md))|Omri Azencot (Ben-Gurion University)|John Wu||
 
 [1]: https://drive.google.com/file/d/0B_vRw1QFsEicQVRuUDJpWmNFS3ZfRmNyc3pIbGFpeVdnWHZ3/view?usp=sharing
 [2]: https://www.youtube.com/watch?v=f2pZ6vIKCnQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
@@ -66,3 +70,5 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 [16]: https://www.youtube.com/watch?v=1zlYYGP874I&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=2
 [17]: https://drive.google.com/file/d/1ITkmSVrNBrgjnbER_qh4pr4K9tkVtTnT/view?usp=sharing
 [18]: https://www.youtube.com/watch?v=ObXSq4fkCKs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=3&t=5s
+[19]: https://www.youtube.com/watch?v=lmhaIGbz2Zo
+[20]: https://www.youtube.com/watch?v=2Ab-8xTI89c&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy&index=1&t=20s
