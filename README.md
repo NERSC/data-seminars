@@ -6,7 +6,7 @@ The NERSC Data Seminar Series are held at [Berkeley Lab](https://www.lbl.gov/). 
 - Facilitate communications between NERSC and other lab CS staff
   
 ### Time:
-Talks are held at **12-1pm** on **Fridays** and are posted on the [CS Seminars Calendar](https://www.nersc.gov/events/cs-seminars/).  
+Talks are held at **11am-12pm** on **Tuesdays** and are posted on the [CS Seminars Calendar](https://www.nersc.gov/events/cs-seminars/).  
 If you are affiliated with Berkeley Lab you can sign up to receive announcements about the Machine Learning seminars at the [ML4Sci mailing-list](https://groups.google.com/a/lbl.gov/forum/#!forum/ml4sci).
  
 
