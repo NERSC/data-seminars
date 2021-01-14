@@ -26,4 +26,5 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 |Date |Title                |Speaker                 |Host               |Material       |
 |-----|---------------------|------------------------|-------------------|-------------|
 |1/12 |Deep Learning Approaches for Modeling Multi-Scale Chaos and Geophysical Turbulence ([abstract](abstracts/2021-01-12.md))|Ashesh Chattopadhyay (Rice University/LBL)|Mustafa Mustafa||
-|1/19 |Self-supervised Representation Learning for Sky Surveys|Md. Abul Hayat (UARK/LBL), George Stein (UCB/LBL)|Mustafa Mustafa||
+|1/19 |Self-Supervised Representation Learning for Astronomical Images ([abstract](abstracts/2021-01-19.md))|Md. Abul Hayat (UARK/LBL), George Stein (UCB/LBL)|Mustafa Mustafa||
+|2/2 |TBD |Vinicius Mikuni (Univ. of Zurich)|Mustafa Mustafa||
