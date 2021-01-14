@@ -19,7 +19,7 @@ Feel free to contact the host with questions or requests for time with the speak
 Video recordings are available on [YouTube](https://www.youtube.com/playlist?list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy).
 
 ### Past years: 
-[2020](2020.md)
+[2020](2020.md)  
 [2019](2019.md)
 
 ### 2021 Seminars
