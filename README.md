@@ -28,7 +28,7 @@ Video recordings are available on [YouTube](https://www.youtube.com/playlist?lis
 |1/12 |Deep Learning Approaches for Modeling Multi-Scale Chaos and Geophysical Turbulence ([abstract](abstracts/2021-01-12.md))|Ashesh Chattopadhyay (Rice University/LBL)|Mustafa Mustafa|[vid][3]|
 |1/19 |Self-Supervised Representation Learning for Astronomical Images ([abstract](abstracts/2021-01-19.md))|Md. Abul Hayat (UARK/LBL), George Stein (UCB/LBL)|Mustafa Mustafa|[pdf][1], [key][2], [vid][4]|
 |2/2 |TBD |Vinicius Mikuni (Univ. of Zurich)|Mustafa Mustafa||
-|2/23 |The CS Area Superfacility Project: Year in Review 2020 |The Suprefacility Team|Debbie Bard| [pdf][5]|
+|2/23 |The CS Area Superfacility Project: Year in Review 2020 |The Superfacility Team|Debbie Bard| [pdf][5]|
 
 [1]: https://drive.google.com/file/d/1oNg8YwAXeenRmyFoUNJT0I8ALol6eee8/view
 [2]: https://drive.google.com/file/d/1MKU_qixEq550ww4EihVin2fuoXF1QiyN/view?usp=sharing
