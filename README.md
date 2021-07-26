@@ -37,7 +37,8 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |2/23 |The CS Area Superfacility Project: Year in Review 2020 |The Superfacility Team|Debbie Bard|[video][6], [pdf][5]|
 |3/9  |Darshan: Enabling Application I/O Understanding in an Evolving HPC Landscape ([abstract](abstracts/2021-03-09.md))|Shane Snyder (Argonne National Laboratory)|Alberto Chiusole|[video][7]|
 |4/16 |The Open Catalyst 2020 (OC20) Dataset & Community Challenges ([abstract](abstracts/2021-04-16.md))|Zachary Ulissi (Carnegie Mellon University),<br>Larry Zitnick (Facebook AI Research)|Brandon Wood|[video][8]|
-|6/8  |TBD | Chris Mungall (LBL) | Shane Canon | |
+|7/13 |Monitoring Scientific Python Usage at NERSC ([abstract](abstracts/2021-07-13.md))|Rollin Thomas (NERSC/LBL)|Wahid Bhimji|[video][9]|
+|X/X  |TBD | Chris Mungall (LBL) | Shane Canon | |
 
 [1]: https://drive.google.com/file/d/1oNg8YwAXeenRmyFoUNJT0I8ALol6eee8/view
 [2]: https://drive.google.com/file/d/1MKU_qixEq550ww4EihVin2fuoXF1QiyN/view?usp=sharing
@@ -47,3 +48,4 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [6]: https://www.youtube.com/watch?v=-ck2GN75ycA&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [7]: https://www.youtube.com/watch?v=YSc07PTeExw&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [8]: https://www.youtube.com/watch?v=EdvmicKME7Y&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[9]: https://www.youtube.com/watch?v=hdcwthKcAVg&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
