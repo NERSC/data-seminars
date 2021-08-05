@@ -37,7 +37,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |2/23 |The CS Area Superfacility Project: Year in Review 2020 |The Superfacility Team|Debbie Bard|[video][6], [pdf][5]|
 |3/9  |Darshan: Enabling Application I/O Understanding in an Evolving HPC Landscape ([abstract](abstracts/2021-03-09.md))|Shane Snyder (Argonne National Laboratory)|Alberto Chiusole|[video][7]|
 |4/16 |The Open Catalyst 2020 (OC20) Dataset & Community Challenges ([abstract](abstracts/2021-04-16.md))|Zachary Ulissi (Carnegie Mellon University),<br>Larry Zitnick (Facebook AI Research)|Brandon Wood|[video][8]|
-|6/29 | FAIR Data - What's all the fuss about?|Heather Coates (IUPUI)| [pdf][9], [video][10]|
+|6/29 | FAIR Data - What's all the fuss about?|Heather Coates (IUPUI)| Kristy Kallback-Rose| [pdf][9], [video][10]|
 |7/13 |Monitoring Scientific Python Usage at NERSC ([abstract](abstracts/2021-07-13.md))|Rollin Thomas (NERSC/LBL)|Wahid Bhimji|[video][11]|
 |X/X  |TBD | Chris Mungall (LBL) | Shane Canon | |
 
