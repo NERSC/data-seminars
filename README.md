@@ -39,6 +39,8 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |4/16 |The Open Catalyst 2020 (OC20) Dataset & Community Challenges ([abstract](abstracts/2021-04-16.md))|Zachary Ulissi (Carnegie Mellon University),<br>Larry Zitnick (Facebook AI Research)|Brandon Wood|[video][8]|
 |6/29 | FAIR Data - What's all the fuss about?|Heather Coates (IUPUI)| Kristy Kallback-Rose| [pdf][9], [video][10]|
 |7/13 |Monitoring Scientific Python Usage at NERSC ([abstract](abstracts/2021-07-13.md))|Rollin Thomas (NERSC/LBL)|Wahid Bhimji|[video][11]|
+|8/3  |Legate: High Productivity High Performance Computing ([abstract](abstracts/2021-08-03.md))|Manolis Papadakis (NVIDIA)|Laurie Stephey|[video][12], [pdf][13]|
+|8/10 |LDMS data at NERSC: doing something useful with 8 PB of CSV files ([abstract](abstracts/2021-08-10.md))|Brandon Cook (NERSC/LBL)|Wahid Bhimji|[video][14]|
 |X/X  |TBD | Chris Mungall (LBL) | Shane Canon | |
 
 [1]: https://drive.google.com/file/d/1oNg8YwAXeenRmyFoUNJT0I8ALol6eee8/view
@@ -52,3 +54,6 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [9]: https://docs.google.com/presentation/d/1J_xRTvOwtYeXdfqxwD5-sAswdTOw6nNo/edit?usp=drive_web&ouid=111822247062274782499&rtpof=true
 [10]: https://drive.google.com/file/d/18kwOhBFsGedxpee0Inb7Zh_0zOtssPG4/view?usp=sharing
 [11]: https://www.youtube.com/watch?v=hdcwthKcAVg&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[12]: https://www.youtube.com/watch?v=rpfun5SPFQs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[13]: https://drive.google.com/file/d/1Zrlsv5ITqoE-ulzvqK9ok_XtZ27c5F4C/view?usp=sharing
+[14]: https://www.youtube.com/watch?v=Fcm0jQXqlp0&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
