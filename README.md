@@ -40,7 +40,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |6/29 | FAIR Data - What's all the fuss about?|Heather Coates (IUPUI)| Kristy Kallback-Rose| [pdf][9], [video][10]|
 |7/13 |Monitoring Scientific Python Usage at NERSC ([abstract](abstracts/2021-07-13.md))|Rollin Thomas (NERSC/LBL)|Wahid Bhimji|[video][11]|
 |8/3  |Legate: High Productivity High Performance Computing ([abstract](abstracts/2021-08-03.md))|Manolis Papadakis (NVIDIA)|Laurie Stephey|[video][12], [pdf][13]|
-|8/10 |LDMS data at NERSC: doing something useful with 8 PB of CSV files ([abstract](abstracts/2021-08-10.md))|Brandon Cook (NERSC/LBL)|Wahid Bhimji|[video][14]|
+|8/10 |LDMS data at NERSC: doing something useful with 8 PB of CSV files ([abstract](abstracts/2021-08-10.md))|Brandon Cook (NERSC/LBL)|Wahid Bhimji|[video][14], [pdf][15]|
 |X/X  |TBD | Chris Mungall (LBL) | Shane Canon | |
 
 [1]: https://drive.google.com/file/d/1oNg8YwAXeenRmyFoUNJT0I8ALol6eee8/view
@@ -57,3 +57,4 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [12]: https://www.youtube.com/watch?v=rpfun5SPFQs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [13]: https://drive.google.com/file/d/1Zrlsv5ITqoE-ulzvqK9ok_XtZ27c5F4C/view?usp=sharing
 [14]: https://www.youtube.com/watch?v=Fcm0jQXqlp0&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[15]: https://docs.google.com/presentation/d/1IEd6tPPbMZOOboevNi_iYRwmPHPzdvC3XLQv0eLXsFQ
