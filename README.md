@@ -42,6 +42,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |8/3  |Legate: High Productivity High Performance Computing ([abstract](abstracts/2021-08-03.md))|Manolis Papadakis (NVIDIA)|Laurie Stephey|[video][12], [pdf][13]|
 |8/10 |LDMS data at NERSC: doing something useful with 8 PB of CSV files ([abstract](abstracts/2021-08-10.md))|Brandon Cook (NERSC/LBL)|Wahid Bhimji|[video][14], [pdf][15]|
 |8/24 |JGI Computing - the future is looking cloudy ([abstract](abstracts/2021-08-24.md))|Kjiersten Fagnan (JGI/LBL)|Nicholas Wright|[video][16]|
+|9/14 |Challenges and successes with a hybrid multicloud implementation for research computing ([abstract](abstracts/2021-09-14.md))|Jonathan Skone (NERSC/LBL)|Nicholas Wright|[video][17]|
 |X/X  |TBD | Chris Mungall (LBL) | Shane Canon | |
 
 [1]: https://drive.google.com/file/d/1oNg8YwAXeenRmyFoUNJT0I8ALol6eee8/view
@@ -60,3 +61,4 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [14]: https://www.youtube.com/watch?v=Fcm0jQXqlp0&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [15]: https://docs.google.com/presentation/d/1IEd6tPPbMZOOboevNi_iYRwmPHPzdvC3XLQv0eLXsFQ
 [16]: https://www.youtube.com/watch?v=WRb5QDPNCrA&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[17]: https://www.youtube.com/watch?v=OQcGSaLWESE&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
