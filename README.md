@@ -43,6 +43,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |8/10 |LDMS data at NERSC: doing something useful with 8 PB of CSV files ([abstract](abstracts/2021-08-10.md))|Brandon Cook (NERSC/LBL)|Wahid Bhimji|[video][14], [pdf][15]|
 |8/24 |JGI Computing - the future is looking cloudy ([abstract](abstracts/2021-08-24.md))|Kjiersten Fagnan (JGI/LBL)|Nicholas Wright|[video][16]|
 |9/14 |Challenges and successes with a hybrid multicloud implementation for research computing ([abstract](abstracts/2021-09-14.md))|Jonathan Skone (NERSC/LBL)|Nicholas Wright|[video][17]|
+|9/21 |Darshan 3.3.1 & Autoperf 2.0 updates ([abstract](abstracts/2021-09-21.md))|Sudheer Chunduri (Argonne National Lab), Kevin Harms (Argonne National Lab)|Taylor Groves|[video][18]|
 |X/X  |TBD | Chris Mungall (LBL) | Shane Canon | |
 
 [1]: https://drive.google.com/file/d/1oNg8YwAXeenRmyFoUNJT0I8ALol6eee8/view
@@ -62,3 +63,4 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [15]: https://docs.google.com/presentation/d/1IEd6tPPbMZOOboevNi_iYRwmPHPzdvC3XLQv0eLXsFQ
 [16]: https://www.youtube.com/watch?v=WRb5QDPNCrA&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [17]: https://www.youtube.com/watch?v=OQcGSaLWESE&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[18]: https://www.youtube.com/watch?v=LRkOLKww7nI&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
