@@ -12,7 +12,7 @@ If you are affiliated with Berkeley Lab you can sign up to receive announcements
 
 ### Remote attendance:
 
-[Zoom](https://lbnl.zoom.us/j/985901166?pwd=bGNpUFJwVDg2aEg0S20rdHdiYTIwZz09)
+The Zoom link will be visible in the calendar invite.
 
 ### Contacting the speakers:
 
