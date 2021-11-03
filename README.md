@@ -47,6 +47,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |9/28 |Fusion Long Range Plan and Fusion Energy Sciences Advisory Committee Report Briefing and Current and Future FES Needs at NERSC ([abstract](abstracts/2021-09-28.md))|Richard Hawryluk (PPPL), Troy Carter (UCLA), Brian Wirth (ORNL), Chris Holland (UCSD), Dave Humphreys (General Atomics)|Richard Gerber|[video][19]|
 |10/19|Scaling out HPC with On-Premise Performance in the Oracle Cloud Infrastructure ([abstract](abstracts/2021-10-19.md))|Luiz DeRose, Ph.D. (Oracle)|Jonathan Skone|[video][20]|
 |10/26|Challenges and Directions in ML System Performance: The MLPerf Story ([abstract](abstracts/2021-10-26.md))|David Kanter (MLCommons)|Hai Ah Nam|[video][21]|
+|11/2 |Characterizing I/O behavior of large-scale scientific Deep Learning applications ([abstract](abstracts/2021-11-02.md))|Hariharan Devarajan (LLNL)|Suren Byna|[video][22]|
 |X/X  |TBD | Chris Mungall (LBL) | Shane Canon | |
 
 [1]: https://drive.google.com/file/d/1oNg8YwAXeenRmyFoUNJT0I8ALol6eee8/view
@@ -70,3 +71,4 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [19]: https://www.youtube.com/watch?v=qFXJCJTSeR4&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [20]: https://www.youtube.com/watch?v=ZxboaaYoYrw&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [21]: https://www.youtube.com/watch?v=l6ygTAqmDSs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[22]: https://www.youtube.com/watch?v=h5j8KiczIiU&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
