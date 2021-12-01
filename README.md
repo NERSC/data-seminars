@@ -48,6 +48,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |10/19|Scaling out HPC with On-Premise Performance in the Oracle Cloud Infrastructure ([abstract](abstracts/2021-10-19.md))|Luiz DeRose, Ph.D. (Oracle)|Jonathan Skone|[video][20]|
 |10/26|Challenges and Directions in ML System Performance: The MLPerf Story ([abstract](abstracts/2021-10-26.md))|David Kanter (MLCommons)|Hai Ah Nam|[video][21]|
 |11/2 |Characterizing I/O behavior of large-scale scientific Deep Learning applications ([abstract](abstracts/2021-11-02.md))|Hariharan Devarajan (LLNL)|Suren Byna|[video][22], [pdf][23]|
+|11/30 |Tiled: A Service for Structured Data Access ([abstract](abstracts/2021-11-30.md))|Dan Allan (NSLS-II - Brookhaven National Laboratory)|Bjoern Enders|[video][24]|
 |X/X  |TBD | Chris Mungall (LBL) | Shane Canon | |
 
 [1]: https://drive.google.com/file/d/1oNg8YwAXeenRmyFoUNJT0I8ALol6eee8/view
@@ -73,3 +74,4 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [21]: https://www.youtube.com/watch?v=l6ygTAqmDSs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [22]: https://www.youtube.com/watch?v=h5j8KiczIiU&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [23]: https://drive.google.com/file/d/1nVG3R2lgKg11alOGljHoLY_WuPkECXBx/view?usp=sharing
+[24]: https://www.youtube.com/watch?v=M5A1B0CtTg0&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
