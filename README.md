@@ -32,6 +32,8 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 
 |Date |Title                |Speaker                 |Host               |Material       |
 |-----|---------------------|------------------------|-------------------|---------------|
+|1/13 |The Next Generation of High Performance Computing: HPC-2.0 ([abstract](abstracts/2022-01-13.md))|Gregory Kurtzer (Ctrl IQ, Rocky Linux)|Jonathan Skone|[video][1], [pdf][2]|
 |X/X  |TBD                  | Chris Mungall (LBL)    | Shane Canon       |               |
 
-<!-- [1]: https://address.here -->
+[1]: https://www.youtube.com/watch?v=isP-Hqw_-nc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[2]: https://drive.google.com/file/d/1knKvXpL1bghN5U0zpOWgpsmBp7y370aJ/view?usp=sharing
