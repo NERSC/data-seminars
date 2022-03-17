@@ -35,8 +35,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |1/13 |The Next Generation of High Performance Computing: HPC-2.0 ([abstract](abstracts/2022-01-13.md))|Gregory Kurtzer (Ctrl IQ, Rocky Linux)|Jonathan Skone|[video][1], [pdf][2]|
 |2/1  |KubeFlux: a scheduler plugin bridging the cloud-HPC gap in Kubernetes ([abstract](abstracts/2022-02-01.md))|Claudia Misale (IBM), Daniel J. Milroy (LLNL)|Shane Canon|[video][3], [pdf][4]|
 |3/15 |Chameleon: An Innovation Platform for Computer Science Research and Education ([abstract](abstracts/2022-03-15.md))|Kate Keahey (ANL, UChicago CASE)|Shane Canon, Jonathan Skone|[video][5], [pdf][6]|
-|3/22 |Composable Platforms for Scientific Computing: Experiences and Outcomes |Brian Werts and Erik Gough
-(Purdue University)|Jonathan Skone||
+|3/22 |Composable Platforms for Scientific Computing: Experiences and Outcomes |Brian Werts and Erik Gough (Purdue University)|Jonathan Skone||
 |X/X  |TBD                  | Chris Mungall (LBL)    | Shane Canon       |               |
 
 
