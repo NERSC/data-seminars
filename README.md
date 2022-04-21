@@ -36,6 +36,8 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |2/1  |KubeFlux: a scheduler plugin bridging the cloud-HPC gap in Kubernetes ([abstract](abstracts/2022-02-01.md))|Claudia Misale (IBM), Daniel J. Milroy (LLNL)|Shane Canon|[video][3], [pdf][4]|
 |3/15 |Chameleon: An Innovation Platform for Computer Science Research and Education ([abstract](abstracts/2022-03-15.md))|Kate Keahey (ANL, UChicago CASE)|Shane Canon, Jonathan Skone|[video][5], [pdf][6]|
 |3/22 |Composable Platforms for Scientific Computing: Experiences and Outcomes ([abstract](abstracts/2022-03-22.md))|Brian Werts, Sam Weekly and Erik Gough (Purdue University)|Jonathan Skone|[video][7], [pdf][8]|
+|4/12 |||||
+|4/19 |Discovering and Modeling Strong Gravitational Lenses with Cori and Perlmutter at NERSC ([abstract](abstracts/2022-04-19.md))|Xiaosheng Huang (USF), Andi Gu (UCB)|Steve Farrell|[video][9]|
 |X/X  |TBD                  | Chris Mungall (LBL)    | Shane Canon       |               |
 
 [1]: https://www.youtube.com/watch?v=isP-Hqw_-nc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
@@ -46,3 +48,4 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [6]: https://drive.google.com/file/d/1pkX9dtsiPA6k_2v6WpRGRYDUBeijtjq-/view?usp=sharing
 [7]: https://www.youtube.com/watch?v=5patk3AVBoY&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [8]: https://drive.google.com/file/d/17DMO4fCBoQ0e3pKGq_jhOZ_vzXWHClC_/view?usp=sharing
+[9]: https://www.youtube.com/watch?v=BdpgOhxEyMs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
