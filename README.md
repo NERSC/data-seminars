@@ -38,14 +38,16 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |3/22 |Composable Platforms for Scientific Computing: Experiences and Outcomes ([abstract](abstracts/2022-03-22.md))|Brian Werts, Sam Weekly and Erik Gough (Purdue University)|Jonathan Skone|[video][7], [pdf][8]|
 |4/12 |||||
 |4/19 |Discovering and Modeling Strong Gravitational Lenses with Cori and Perlmutter at NERSC ([abstract](abstracts/2022-04-19.md))|Xiaosheng Huang (USF), Andi Gu (UCB)|Steve Farrell|[video][9]|
+|4/26 |FirecREST, RESTful HPC ([abstract](abstracts/2022-04-26.md))|Juan Pablo Dorsch (CSCS)|Jonathan Skone|[video][10]|
 |X/X  |TBD                  | Chris Mungall (LBL)    | Shane Canon       |               |
 
-[1]: https://www.youtube.com/watch?v=isP-Hqw_-nc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
-[2]: https://drive.google.com/file/d/1knKvXpL1bghN5U0zpOWgpsmBp7y370aJ/view?usp=sharing
-[3]: https://www.youtube.com/watch?v=RSsuamxKxH0&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
-[4]: https://drive.google.com/file/d/1am44USKAM2GBcXo381fF0q4TUNngtHLU/view?usp=sharing
-[5]: https://www.youtube.com/watch?v=fMWdmEIZldc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
-[6]: https://drive.google.com/file/d/1pkX9dtsiPA6k_2v6WpRGRYDUBeijtjq-/view?usp=sharing
-[7]: https://www.youtube.com/watch?v=5patk3AVBoY&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
-[8]: https://drive.google.com/file/d/17DMO4fCBoQ0e3pKGq_jhOZ_vzXWHClC_/view?usp=sharing
-[9]: https://www.youtube.com/watch?v=BdpgOhxEyMs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[1]:  https://www.youtube.com/watch?v=isP-Hqw_-nc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[2]:  https://drive.google.com/file/d/1knKvXpL1bghN5U0zpOWgpsmBp7y370aJ/view?usp=sharing
+[3]:  https://www.youtube.com/watch?v=RSsuamxKxH0&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[4]:  https://drive.google.com/file/d/1am44USKAM2GBcXo381fF0q4TUNngtHLU/view?usp=sharing
+[5]:  https://www.youtube.com/watch?v=fMWdmEIZldc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[6]:  https://drive.google.com/file/d/1pkX9dtsiPA6k_2v6WpRGRYDUBeijtjq-/view?usp=sharing
+[7]:  https://www.youtube.com/watch?v=5patk3AVBoY&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[8]:  https://drive.google.com/file/d/17DMO4fCBoQ0e3pKGq_jhOZ_vzXWHClC_/view?usp=sharing
+[9]:  https://www.youtube.com/watch?v=BdpgOhxEyMs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[10]: https://www.youtube.com/watch?v=9O1L4Wf9sZs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
