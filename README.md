@@ -40,6 +40,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |4/19 |Discovering and Modeling Strong Gravitational Lenses with Cori and Perlmutter at NERSC ([abstract](abstracts/2022-04-19.md))|Xiaosheng Huang (USF), Andi Gu (UCB)|Steve Farrell|[video][9]|
 |4/26 |FirecREST, RESTful HPC ([abstract](abstracts/2022-04-26.md))|Juan Pablo Dorsch (CSCS)|Jonathan Skone|[video][10], [pdf][11]|
 |5/17 |Memory Disaggregation: Potentials and Pitfalls ([abstract](abstracts/2022-05-17.md))|Nan Ding (LBL)|Hai Ah Nam|[video][12]|
+|5/19 |Quantum Computing for NERSC Staff ([abstract](abstracts/2022-05-19.md))|Katie Klymko, Daan Camps & Jan Balewski (NERSC/LBL)|Katie Klymko, Daan Camps, Jan Balewski|[video][13]|
 |X/X  |TBD                  | Chris Mungall (LBL)    | Shane Canon       |               |
 
 [1]:  https://www.youtube.com/watch?v=isP-Hqw_-nc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
@@ -54,3 +55,4 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [10]: https://www.youtube.com/watch?v=9O1L4Wf9sZs&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [11]: https://drive.google.com/file/d/10UkMJUILL4J4yAIbcOv4yG5QgS7hgx0p/view?usp=sharing
 [12]: https://www.youtube.com/watch?v=5p98UeSIsSY&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[13]: https://www.youtube.com/watch?v=TyA8XwwJ350&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
