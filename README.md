@@ -32,15 +32,16 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 
 |Date |Title                |Speaker                 |Host               |Material       |
 |-----|---------------------|------------------------|-------------------|---------------|
-|1/13 |The Next Generation of High Performance Computing: HPC-2.0 ([abstract](abstracts/2022-01-13.md))|Gregory Kurtzer (Ctrl IQ, Rocky Linux)|Jonathan Skone|[video][1], [pdf][2]|
-|2/1  |KubeFlux: a scheduler plugin bridging the cloud-HPC gap in Kubernetes ([abstract](abstracts/2022-02-01.md))|Claudia Misale (IBM), Daniel J. Milroy (LLNL)|Shane Canon|[video][3], [pdf][4]|
-|3/15 |Chameleon: An Innovation Platform for Computer Science Research and Education ([abstract](abstracts/2022-03-15.md))|Kate Keahey (ANL, UChicago CASE)|Shane Canon, Jonathan Skone|[video][5], [pdf][6]|
-|3/22 |Composable Platforms for Scientific Computing: Experiences and Outcomes ([abstract](abstracts/2022-03-22.md))|Brian Werts, Sam Weekly and Erik Gough (Purdue University)|Jonathan Skone|[video][7], [pdf][8]|
+|1/13 |The Next Generation of High Performance Computing: HPC-2.0 ([abstract](abstracts/2022-01-13.md))|Gregory Kurtzer (Ctrl IQ, Rocky Linux)|Jonathan Skone|[video][1], [slides][2]|
+|2/1  |KubeFlux: a scheduler plugin bridging the cloud-HPC gap in Kubernetes ([abstract](abstracts/2022-02-01.md))|Claudia Misale (IBM), Daniel J. Milroy (LLNL)|Shane Canon|[video][3], [slides][4]|
+|3/15 |Chameleon: An Innovation Platform for Computer Science Research and Education ([abstract](abstracts/2022-03-15.md))|Kate Keahey (ANL, UChicago CASE)|Shane Canon, Jonathan Skone|[video][5], [slides][6]|
+|3/22 |Composable Platforms for Scientific Computing: Experiences and Outcomes ([abstract](abstracts/2022-03-22.md))|Brian Werts, Sam Weekly and Erik Gough (Purdue University)|Jonathan Skone|[video][7], [slides][8]|
 |4/12 |||||
 |4/19 |Discovering and Modeling Strong Gravitational Lenses with Cori and Perlmutter at NERSC ([abstract](abstracts/2022-04-19.md))|Xiaosheng Huang (USF), Andi Gu (UCB)|Steve Farrell|[video][9]|
-|4/26 |FirecREST, RESTful HPC ([abstract](abstracts/2022-04-26.md))|Juan Pablo Dorsch (CSCS)|Jonathan Skone|[video][10], [pdf][11]|
+|4/26 |FirecREST, RESTful HPC ([abstract](abstracts/2022-04-26.md))|Juan Pablo Dorsch (CSCS)|Jonathan Skone|[video][10], [slides][11]|
 |5/17 |Memory Disaggregation: Potentials and Pitfalls ([abstract](abstracts/2022-05-17.md))|Nan Ding (LBL)|Hai Ah Nam|[video][12]|
 |5/19 |Quantum Computing for NERSC Staff ([abstract](abstracts/2022-05-19.md))|Katie Klymko, Daan Camps & Jan Balewski (NERSC/LBL)|Katie Klymko, Daan Camps, Jan Balewski|[video][13]|
+|6/7  |Building a Platform for Operating Multi-Institutional Distributed Services ([abstract](abstracts/2022-06-07.md))|Lincoln Bryant (Enrico Fermi Institute - University of Chicago)|Jonathan Skone|[video][14], [slides][15]|
 |X/X  |TBD                  | Chris Mungall (LBL)    | Shane Canon       |               |
 
 [1]:  https://www.youtube.com/watch?v=isP-Hqw_-nc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
@@ -56,3 +57,5 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [11]: https://drive.google.com/file/d/10UkMJUILL4J4yAIbcOv4yG5QgS7hgx0p/view?usp=sharing
 [12]: https://www.youtube.com/watch?v=5p98UeSIsSY&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [13]: https://www.youtube.com/watch?v=TyA8XwwJ350&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[14]: https://www.youtube.com/watch?v=253Z5M0Ps_A&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[15]: https://drive.google.com/file/d/1PXuxQXmcGyZQjhtNtzlfzOfIvIWJ-5ck/view?usp=sharing
