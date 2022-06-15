@@ -42,6 +42,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |5/17 |Memory Disaggregation: Potentials and Pitfalls ([abstract](abstracts/2022-05-17.md))|Nan Ding (LBL)|Hai Ah Nam|[video][12]|
 |5/19 |Quantum Computing for NERSC Staff ([abstract](abstracts/2022-05-19.md))|Katie Klymko, Daan Camps & Jan Balewski (NERSC/LBL)|Katie Klymko, Daan Camps, Jan Balewski|[video][13]|
 |6/7  |Building a Platform for Operating Multi-Institutional Distributed Services ([abstract](abstracts/2022-06-07.md))|Lincoln Bryant (Enrico Fermi Institute - University of Chicago)|Jonathan Skone|[video][14], [slides][15]|
+|6/14 |Artificial Design of Porous Materials ([abstract](abstracts/2022-06-14.md))|Jihan Kim (KAIST)|Brian Austin|[video][16]|
 |X/X  |TBD                  | Chris Mungall (LBL)    | Shane Canon       |               |
 
 [1]:  https://www.youtube.com/watch?v=isP-Hqw_-nc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
@@ -59,3 +60,4 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [13]: https://www.youtube.com/watch?v=TyA8XwwJ350&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [14]: https://www.youtube.com/watch?v=253Z5M0Ps_A&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [15]: https://drive.google.com/file/d/1PXuxQXmcGyZQjhtNtzlfzOfIvIWJ-5ck/view?usp=sharing
+[16]: https://www.youtube.com/watch?v=X7cW-HGTdQw&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
