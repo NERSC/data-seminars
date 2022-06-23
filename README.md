@@ -43,6 +43,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |5/19 |Quantum Computing for NERSC Staff ([abstract](abstracts/2022-05-19.md))|Katie Klymko, Daan Camps & Jan Balewski (NERSC/LBL)|Katie Klymko, Daan Camps, Jan Balewski|[video][13]|
 |6/7  |Building a Platform for Operating Multi-Institutional Distributed Services ([abstract](abstracts/2022-06-07.md))|Lincoln Bryant (Enrico Fermi Institute - University of Chicago)|Jonathan Skone|[video][14], [slides][15]|
 |6/14 |Artificial Design of Porous Materials ([abstract](abstracts/2022-06-14.md))|Jihan Kim (KAIST)|Brian Austin|[video][16]|
+|6/23 | ([abstract](abstracts/2022-06-23.md))|Lisa Gerhardt, Alberto Chiusole|Lisa Gerhardt, Alberto Chiusole|[video][17], [slides][18]|
 |X/X  |TBD                  | Chris Mungall (LBL)    | Shane Canon       |               |
 
 [1]:  https://www.youtube.com/watch?v=isP-Hqw_-nc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
@@ -61,3 +62,5 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [14]: https://www.youtube.com/watch?v=253Z5M0Ps_A&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [15]: https://drive.google.com/file/d/1PXuxQXmcGyZQjhtNtzlfzOfIvIWJ-5ck/view?usp=sharing
 [16]: https://www.youtube.com/watch?v=X7cW-HGTdQw&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[17]: https://www.youtube.com/watch?v=PC-EzR_f1cA&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[18]: https://drive.google.com/file/d/15C5IcFcm1_KHTThKwOC8o50sC3dl2YMD/view?usp=sharing
