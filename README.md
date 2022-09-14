@@ -45,6 +45,7 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 |6/14 |Artificial Design of Porous Materials ([abstract](abstracts/2022-06-14.md))|Jihan Kim (KAIST)|Brian Austin|[video][16]|
 |6/23 |Demo and hands-on session on ReFrame ([abstract](abstracts/2022-06-23.md))|Lisa Gerhardt, Alberto Chiusole|Lisa Gerhardt, Alberto Chiusole|[video][17], [slides][18]|
 |6/28 |FourCastNet: Data-driven, high-resolution atmosphere modeling at scale ([abstract](abstracts/2022-06-28.md))|Shashank Subramanian (NERSC/LBL)|Peter Harrington|[video][19], [slides][20]|
+|8/9  |Transparent Checkpointing: a mature technology enabling MANA for MPI and beyond ([abstract](abstracts/2022-08-09.md))|Gene Cooperman, Khoury College of Computer Sciences, Northeastern University|Zhengji Zhao|[video][21], [slides][22]|
 |X/X  |TBD                  | Chris Mungall (LBL)    | Shane Canon       |               |
 
 [1]:  https://www.youtube.com/watch?v=isP-Hqw_-nc&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
@@ -67,3 +68,5 @@ Video recordings are available in the ["Data Seminars Series" playlist](https://
 [18]: https://drive.google.com/file/d/15C5IcFcm1_KHTThKwOC8o50sC3dl2YMD/view?usp=sharing
 [19]: https://www.youtube.com/watch?v=RIUV1vpNalI&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
 [20]: https://drive.google.com/file/d/1jJwTZnwZ2ieEQABbFaUvv-lIUfRFjNGW/view?usp=sharing
+[21]: https://www.youtube.com/watch?v=e6MlEXZD3mQ&list=PL20S5EeApOSvkewFIuz2scAEkbnBIlzYy
+[22]: https://drive.google.com/file/d/10PnYYnYGz1d7D4CuOQxzUAP2lzAXNeL7/view?usp=sharing
